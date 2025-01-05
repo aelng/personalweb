@@ -1,7 +1,7 @@
 import { FaGithub } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
 
-function End() {
+function end() {
     return(
         <>
             <div className="max-w-2xl mx-auto pb-[30px] text-darkBg dark:text-lightBg flex flex-col gap-5">
@@ -21,4 +21,4 @@ function End() {
     );
 }
 
-export default End;
+export default end;

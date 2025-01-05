@@ -1,3 +1,3 @@
 # Personal website
 
-check it out at (link)
+check it out at https://alielnagmi.netlify.app/

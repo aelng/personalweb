@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <Nav/>
-      <Me/>
+      
       <About/>
       <Projects/>
       <End/>

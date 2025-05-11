@@ -7,7 +7,7 @@ function Projects() {
         <>
             <div id="projects" className="max-w-2xl mx-auto mb-[5rem]">
                 <div className="flex flex-col justify-center gap-3 mx-10">
-                    <h1 className="text-2xl text-center font-bold text-white mt-20 mb-5">Some of my work</h1>
+                    <h1 className="text-2xl text-center font-bold text-white mt-20 mb-5">Cool projects</h1>
                     <div className="grid grid-cols-1 sm:grid-cols-2 auto-rows-fr w-full gap-3">
                         <a href='https://www.bedstats.net/' target="_blank" className="transition-shadow text-white card border-[#181c3d] border-[0.8px] rounded  hover:shadow-lg duration-300 cursor-pointer p-5 flex flex-col gap-3 relative">
                             <div className="flex flex-row">

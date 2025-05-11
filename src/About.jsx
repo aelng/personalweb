@@ -2,12 +2,14 @@
 
 function About() {
     return (
-        <div className="flex flex-col text-white max-w-xl mx-auto" id="about">
+        <div className="flex flex-col text-white max-w-xl mx-4 md:mx-auto mt-32" id="about">
             <p className="py-1 font-bold bg-[#191d3f] rounded-t-lg p-4">C:\Users\ali\Desktop\about.txt</p>
             <div className="bg-[#0f1126] rounded-b-lg p-4">
                 <p className="text-[1.2em]">
-                    Hello! I'm Ali, a current double degree student studying CS @ UWaterloo and BBA @ WLU.
-                    I think that programming is cool which is why I made this cool website that showcases my cool programming projects. (true story)
+                    Hi, I'm Ali! 
+                </p>
+                <p className="mt-5 text-[1.2em]">
+                    I'm currently studying CS @ UWaterloo. Recently, I've been learning more about ML and app development. Feel free to message me anywhere if you have something cool to share.
                 </p>
             </div>
         </div>

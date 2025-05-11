@@ -16,7 +16,7 @@ function Nav() {
     return(
         <>
         <div className="nav">
-            <div className = "bg-opacity-0 md:bg-[#1e1e33] flex justify-center items-center text-white py-6 px-8 md:px-32">
+            <div className = "bg-opacity-0 md:bg-[#3c684b] flex justify-center items-center text-white py-6 px-8 md:px-32">
                 <ul className = "hidden md:flex items-center gap-12 font-semibold text-base ">
                     <li><a className="hover:text-[#0f3566] transition-colors duration-150 font-bold tracking-wide px-3 text-2xl" href="/#home">Home</a></li>
                     <li><a className="hover:text-[#0f3566] transition-colors duration-150 font-bold tracking-wide px-3 text-2xl" href="/#about">About</a></li>

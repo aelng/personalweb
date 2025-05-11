@@ -22,7 +22,7 @@ function Projects() {
                                 </div>
                             </div>
                             </a>
-                        <a href='https://devpost.com/software/motus-alwiqt' target="_blank" className="transition-all text-white bg-[#1a1a1a] border-[#181c3d] border-[0.8px] rounded hover:bg-[#2d2d2d] hover:shadow-lg duration-300 cursor-pointer p-5 flex flex-col gap-3 relative">
+                        <a href='https://devpost.com/software/motus-alwiqt' target="_blank" className="transition-all text-white bg-[#1a1a1a] border-[#232423] border-[0.8px] rounded hover:bg-[#2d2d2d] hover:shadow-lg duration-300 cursor-pointer p-5 flex flex-col gap-3 relative">
                             <div className="flex flex-row">
                                 <FaLink className="absolute right-5 top-5" size={25}/>
                                 <div>
@@ -32,7 +32,7 @@ function Projects() {
                             </div>
                             </a>
 
-                            <a href='https://devpost.com/software/looklock-fwemi2' target="_blank" className="transition-all text-white bg-[#1a1a1a] border-[#181c3d] border-[0.8px] rounded hover:bg-[#2d2d2d] hover:shadow-lg duration-300 cursor-pointer p-5 flex flex-col gap-3 relative">
+                            <a href='https://devpost.com/software/looklock-fwemi2' target="_blank" className="transition-all text-white bg-[#1a1a1a] border-[#232423] border-[0.8px] rounded hover:bg-[#2d2d2d] hover:shadow-lg duration-300 cursor-pointer p-5 flex flex-col gap-3 relative">
                             <div className="flex flex-row">
                                 <FaLink className="absolute right-5 top-5" size={25}/>
                                 <div>
@@ -42,7 +42,7 @@ function Projects() {
                             </div>
                             </a>
 
-                            <a href='https://devpost.com/software/budget-bites' target="_blank" className="transition-all text-white bg-[#1a1a1a] border-[#181c3d] border-[0.8px] rounded hover:bg-[#2d2d2d] hover:shadow-lg duration-300 cursor-pointer p-5 flex flex-col gap-3 relative">
+                            <a href='https://devpost.com/software/budget-bites' target="_blank" className="transition-all text-white bg-[#1a1a1a] border-[#232423] border-[0.8px] rounded hover:bg-[#2d2d2d] hover:shadow-lg duration-300 cursor-pointer p-5 flex flex-col gap-3 relative">
                             <div className="flex flex-row">
                                 <FaLink className="absolute right-5 top-5" size={25}/>
                                 <div>

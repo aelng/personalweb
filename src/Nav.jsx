@@ -28,7 +28,7 @@ function Nav() {
                         { isOpen ? <></> : <FaChevronDown size={40}/>}
                     </button>
                     <ul
-                        className={`md:hidden md:items-center md:space-x-6 fixed inset-0 bg-[#3c684b] bg-opacity-90 flex flex-col items-center justify-center space-y-6 text-white text-lg transform transition-transform duration-500 ${
+                        className={`md:hidden md:items-center md:space-x-6 fixed inset-0 bg-[#363636] bg-opacity-90 flex flex-col items-center justify-center space-y-6 text-white text-lg transform transition-transform duration-500 ${
                             isOpen ? 'translate-x-0' : 'translate-x-full'} md:relative md:inset-auto md:bg-transparent md:flex md:flex-row md:space-y-0 md:space-x-6 md:translate-x-0`}
                     >
                     <button className="text-white md:hidden focus:outline-none mr-10 absolute top-4 right-4" onClick={toggleMenu}>

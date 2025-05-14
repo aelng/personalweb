@@ -21,8 +21,8 @@ body {
   width: 8px;
 }
 ::-webkit-scrollbar-track{
-  background: rgb(30, 30, 51);
+  background: rgb(39, 39, 39); 
 }
 ::-webkit-scrollbar-thumb{
-  background: rgb(41, 41, 69);
+  background: rgb(26, 25, 25);
 }
